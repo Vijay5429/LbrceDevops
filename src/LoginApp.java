@@ -55,7 +55,7 @@ public class LoginApp {
             if (users.get(username).equals(password)) {
                 System.out.println("Login successful.");
             } else {
-                System.out.println("Invalid username or password.");
+                System.out.println("Invalid username or passwordMGs.");
             }
         }
     }
