@@ -12,7 +12,7 @@ class Sample
 {
 	Sample()
 	{
-		System.out.println("Another Class");
+		System.out.println("Another Class Vijay Kumar");
 	}
 
 }
