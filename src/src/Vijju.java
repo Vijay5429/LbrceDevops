@@ -8,3 +8,11 @@ public class Vijju {
 	}
 
 }
+class Sample
+{
+	Sample()
+	{
+		System.out.println("Another Class");
+	}
+
+}
